@@ -10,6 +10,7 @@ TagManager:
   - Powerup
   - Speed
   - Jump
+  - Button
   layers:
   - Default
   - TransparentFX
