@@ -1,2 +1,2 @@
 # Gameplay2
-Gamepleay
+Made during my second year of university to practice making basic gameplay mechanics
